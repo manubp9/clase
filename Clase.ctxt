@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clase()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ clase\r\n
+comment1.params=
+comment1.target=void\ desordenar()
+comment1.text=\r\n\ metodo\ para\ desordenar\ lista\r\n
+comment2.params=
+comment2.target=void\ impr()
+comment2.text=\r\n\ imprime\ por\ pantalla\ lista\r\n
+comment3.params=
+comment3.target=void\ emparejar()
+comment3.text=\r\n\ empareja\ a\ los\ alumnos\ por\ dos\ o\ tres\ si\ el\ grupo\ es\ impar\r\n
+numComments=4
